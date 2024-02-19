@@ -1,0 +1,1 @@
+prompt("Pilih studio \n A: Studio A \n B: Studio B \n C: Studio C")
